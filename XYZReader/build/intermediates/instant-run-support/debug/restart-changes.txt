@@ -1,2 +1,0 @@
-CHANGED,/Users/mandeep.condle/Developer/udacity/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailFragment.class
-CHANGED,/Users/mandeep.condle/Developer/udacity/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/xyzreader/ui/ArticleDetailFragment$4.class
