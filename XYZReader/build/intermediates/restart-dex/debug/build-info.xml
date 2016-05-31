@@ -4,29 +4,41 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="1464646310400670000" >
+    timestamp="1464664191932167000" >
 
     <task
         name="javac"
-        duration="1310" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="263" />
+        duration="0" />
     <task
         name="verifier"
-        duration="25" />
+        duration="0" />
 
     <artifact
-        location="/Users/mandeep.condle/Developer/udacity/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
-        type="MAIN" />
+        location="/Users/mandeep.condle/Developer/udacity/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="1464646310400670000" >
+    <build timestamp="1464662277306680000" >
         <artifact
             location="/Users/mandeep.condle/Developer/udacity/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="1464663145493154000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/mandeep.condle/Developer/udacity/xyzreader/XYZReader/build/intermediates/builds/debug/1464663145493154000/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="1464664191932167000" >
+        <artifact
+            location="/Users/mandeep.condle/Developer/udacity/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

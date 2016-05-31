@@ -48,7 +48,7 @@ MERGED from [com.android.support:cardview-v7:22.0.0] /Users/mandeep.condle/Devel
 	android:icon
 		ADDED from /Users/mandeep.condle/Developer/udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from /Users/mandeep.condle/Developer/udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /Users/mandeep.condle/Developer/udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-40
 activity#com.example.xyzreader.ui.ArticleListActivity
 ADDED from /Users/mandeep.condle/Developer/udacity/xyzreader/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
 	android:label
