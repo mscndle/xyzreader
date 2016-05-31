@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gradle
+gradle/*
 local.properties
 .idea/*
 .DS_Store
